@@ -1,4 +1,4 @@
-# Git_Hello_World
+# Git_Hello_World Kat's Copy
 
 Here are your tasks for the day:
 
@@ -20,7 +20,7 @@ This lets me know you've finished your edits, and are ready to discuss the edits
 
 6: Then, I will merge your pull request with the master, solidifying your changes
 - 
-
+// lots of edits
 
 Also good to note: 
 - 
